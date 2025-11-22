@@ -1,5 +1,7 @@
 # 👋 Vítejte ve Svitio
 
+![Svitio Logo](./logo-header-cover-image-alt.jpg)
+
 **Kompletní IT partnerství pro vaši cloudovou cestu.**
 
 Jsme tým expertů specializující se na **Microsoft Azure**, **GitOps** a **GitHub**. Pomáháme firmám modernizovat vývoj, automatizovat infrastrukturu a bezpečně spravovat cloudové prostředí.
